@@ -8,7 +8,7 @@ Alpine.start();
 
 import { createApp } from 'vue';
 import router from './router'
-import CompaniesIndex from './components/companies/CompaniesIndex';
+import CompaniesIndex from './components/companies/CompaniesIndex.vue';
 
 createApp({
     components: {
