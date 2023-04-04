@@ -1,4 +1,4 @@
-<h4 align="center"> !!! This repository create to deploy my Lravel & Vue.js Practice !!! </h4>
+<h4 align="center"> !!! This repository create to deploy my Laravel & Vue.js Composition API Crud !!! </h4>
 
 ## How to use
 
